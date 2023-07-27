@@ -1,0 +1,54 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #07080c;
+  height: 120vh;
+  width: 60vw;
+  background-size: cover;
+  margin: 150px;
+  display: flex;
+  flex-direction: column;
+  padding: 90px;
+
+  align-items: center;
+}
+.heading {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.imageurl {
+  height: 35vh;
+  width: 40vw;
+}
+
+.speed-heading {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  text-align: center;
+}
+.speed-paragraph {
+  color: #ffffff;
+  font-size: 10px;
+  font-family: 'Roboto';
+  text-align: center;
+}
+
+.btn-accelater {
+  background-color: #0b69ff;
+  border: transparent 0px solid;
+  padding: 10px;
+  color: #ffffff;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+.btn-apply {
+  background-color: transparent;
+  border: #94a3b8 2px solid;
+  padding: 10px;
+  color: #ffffff;
+  border-radius: 10px;
+}
